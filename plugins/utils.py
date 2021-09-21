@@ -4,7 +4,6 @@ from helper_funcs.bot_utils import *
 import time
 from bot import botStartTime
 import pyrogram
-import filters
 import shutil, psutil
 from pyrogram import Client as app
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
