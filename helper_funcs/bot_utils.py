@@ -3,6 +3,7 @@
 import logging
 import os
 import threading
+from pyrogram import filters
 import time
 from asyncio import TimeoutError
 from base64 import standard_b64encode, standard_b64decode
